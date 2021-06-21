@@ -1,0 +1,118 @@
+
+@media(max-width:1080px){
+    .about-section .stat-item{  
+        text-align: center;
+        flex-direction: column;
+        width: 100%;
+        max-width:100%;
+        transition: linear;
+    }
+}
+
+@media(max-width:999px){
+    .service-section .service-item{
+        flex: 0 0 50%;
+        max-width:50%;
+    }
+}
+
+@media(max-width:777px){
+    /* .contact-section .w-50,
+    .contact-section .contact-item, */
+    .portfolio-popup .description,
+    .portfolio-popup .info,
+    .portfolio-section .portfolio-item,
+    /* .service-section .service-item, */
+    .about-section .skills .skill-item,
+    .about-section .about-info,
+    .about-section .about-img,
+    .home-section .home-text,
+    .home-section .home-img{
+        flex: 0 0 100%;
+        max-width:100%;
+    }
+    .home-section .home-text{
+        order: 2;
+        text-align: center;
+    }
+    .home-section .full-screen{
+        padding: 100px 0;
+    }
+    .home-section .home-img .img-box{
+        margin-bottom: 40px;
+        max-width: 350px;
+    }
+    .effect-3{
+        margin-left: -60px;
+    }
+    .effect-4{
+        left: 15%;
+    }
+    .effect-5{
+        right: 4%;
+    }
+    .about-section .about-img{
+        padding-bottom: 30px;
+    }
+    .about-section .timeline .timeline-item:nth-child(odd){
+        padding-right: 15px;
+        text-align: left;
+        padding-left: 75px;
+    }
+    .about-section .timeline .timeline-item:nth-child(even){
+        padding-left: 75px;
+    }
+    .about-section .timeline:before{
+        left: 35px;
+    }
+    .about-section .timeline .timeline-item:nth-child(odd) .icon{
+        right: auto;
+        left: -60px;
+    }
+    .about-section .timeline .timeline-item:nth-child(even) .icon{
+        left: -60px;
+    }
+    .about-section .timeline .timeline-item{
+        margin-bottom: 40px;
+    }
+    .about-section .timeline .timeline-item:last-child{
+        margin-bottom:0;
+    }
+    .about-section .timeline .timeline-item:nth-child(odd) .timeline-item-inner:before{
+        left: -30px;
+        right: auto;
+    }
+}
+
+@media(max-width:700px){
+    .contact-section .w-50,
+    .contact-section .contact-item{
+        flex: 0 0 100%;
+        max-width:100%;
+    }
+    .contact-section .submit-btn{
+        text-align: center;
+    }
+}
+
+@media(max-width:555px){
+    .portfolio-popup .description,
+    .portfolio-popup .info,
+    .service-section .service-item{
+        flex: 0 0 100%;
+        max-width:100%;
+    }
+    .home-section .home-img .img-box{
+        max-width:260px;
+    }
+    .home-section .home-text h2{
+        font-size: 40px;
+    }
+    .portfolio-popup .description,
+    .portfolio-popup .info{
+        padding-bottom: 5px;
+    }
+    .portfolio-popup .pp-details-inner{
+        padding-left: 20px;
+    }
+}
