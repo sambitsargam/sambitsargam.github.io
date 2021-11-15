@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="https://github.com/sambitsargam/sambitsargam/blob/main/sambitsargam.gif" width="400" height="400">
-  <h3 "👋 Hi there! I'm Sambit Sargam Ekalabya" title="👋 Hi there! I'm Sambit" h3/>
+"👋 Hi there! I'm Sambit Sargam Ekalabya" title="👋 Hi there! I'm Sambit"
 </p>
 
 ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=sambitsargam.sambitsargam&color=00df00)
