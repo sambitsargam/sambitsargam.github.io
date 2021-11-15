@@ -1,42 +1,63 @@
-# my-website
-my portfolio
-<h1 align="center">Hi 👋, I'm Sambit Sargam Ekalabya</h1>
-<h3 align="center">A passionate student with frontend developer from India</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sambitsargam" alt="sambitsargam" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/sambitsargam" target="blank"><img src="https://img.shields.io/twitter/follow/sambitsargam?logo=twitter&style=for-the-badge" alt="sambitsargam" /></a> </p>
-
-- 🔭 I’m currently working on **CAMPUS AMBASSADOR AT CODING ELEMENT**
-
-- 🌱 I’m currently learning **Python and Web Development**
-
-- 👨‍💻 All of my projects are available at [sambit.study](sambit.study)
-
-- 📝 I regularly write articles on [sambitsargam.study](sambitsargam.study)
-
-- 💬 Ask me about **Anything**
-
-- 📫 How to reach me **sambitsargam2003@gmail.com**
-
-- ⚡ Fun fact **I**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/sambitsargam" target="blank"><img align="center" src="https://www.iconfinder.com/icons/5296516/tweet_twitter_twitter%20logo_icon" alt="sambitsargam" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sambit-sargam-ekalabya-5b56251b7" target="blank"><img align="center" src="https://www.iconfinder.com/icons/5296501/linkedin_network_linkedin%20logo_icon" alt="sambit-sargam-ekalabya-5b56251b7" height="30" width="40" /></a>
-<a href="https://fb.com/sambit.shakti" target="blank"><img align="center" src="https://www.iconfinder.com/icons/5365678/fb_facebook_facebook%20logo_icon" alt="sambit.shakti" height="30" width="40" /></a>
-<a href="https://instagram.com/myself_sambit" target="blank"><img align="center" src="https://www.iconfinder.com/icons/5296765/camera_instagram_instagram%20logo_icon" alt="myself_sambit" height="30" width="40" /></a>
-<a href="/sambit.study" target="blank"><img align="center" src="https://www.iconfinder.com/icons/1873909/world_social%20media_earth_website_world%20wide%20web_icon" alt="sambit.study" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://github.com/sambitsargam/sambitsargam/blob/main/sambitsargam.gif" alt="👋 Hi there! I'm Sambit Sargam Ekalabya" title="👋 Hi there! I'm Sambit"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com/amplify/" target="_blank"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> </a> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://circleci.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a> <a href="https://www.cockroachlabs.com/product/cockroachdb/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/cockroachdb.svg" alt="cockroachdb" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://www.gatsbyjs.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="hexo.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/hexoio/hexoio-icon.svg" alt="hexo" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.invisionapp.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg" alt="invision" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://quasar.dev/" target="_blank"> <img src="https://cdn.quasar.dev/logo/svg/quasar-logo.svg" alt="quasar" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://lucene.apache.org/solr/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_solr/apache_solr-icon.svg" alt="solr" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://symfony.com" target="_blank"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://www.wxwidgets.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/WxWidgets.svg" alt="wx_widgets" width="40" height="40"/> </a> </p>
+![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=sambitsargam.sambitsargam&color=00df00)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sambitsargam&show_icons=true&locale=en&layout=compact" alt="sambitsargam" /></p>
+# Hi there! 👋
+- :school: I'm <a href="https://sambitsargam.study/" target="_blank">_Sambit Sargam Ekalabya_</a> currently a **INFORMATION TECHNOLOGY** student at <a href="https://nist.edu/" target="_blank" >National Institute of Science and Technology, Berhampur</a>
+- 💻 I'm currently learning Python and Web development with Cloud Technology also.
+- 🔭 I’m currently working on a  research project
+- 🌎 i'm working to develope a fluid stimulated website https://sambit.study
+- 🤔 I’m looking for help with **Data Structures and Algorithms**
+- 😄 Pronouns: He/His
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sambitsargam&show_icons=true&locale=en" alt="sambitsargam" /></p>
+- CHECK MY PORTFOLIO AT https://sambitsargam.study/
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sambitsargam&" alt="sambitsargam" /></p>
+<h1 align="center"> Tools and Technologies⚡</h1>
+<p align="center">
+  <img src="https://img.shields.io/badge/html5-%23E34F26?logo=html5&logoColor=white" alt="HTML5 logo" title="HTML5" height="30" />
+  <img src="https://img.shields.io/badge/css3-%231572B6?logo=css3&logoColor=white" alt="CSS3 logo" title="CSS3" height="30" />
+  <img src="https://img.shields.io/badge/c-%2300599C?logo=c&logoColor=white" alt="C logo" title="C" height="30" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00?logo=java&logoColor=white" alt="Java logo" title="Java" height="30" />
+  <img src="https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54" alt="Python logo" title="Python" height="30" />
+  <img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="30" />
+  <img src="https://img.shields.io/badge/github-%23121011?logo=github&logoColor=white" alt="GitHub logo" title="GitHub" height="30" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" alt="Windows logo" title="Windows" height="30" />
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC?logo=Canva&logoColor=white" alt="Canva logo" title="Canva" height="30" />
+  <img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="30" />`
+  <img src="https://img.shields.io/badge/pandas-%23150458?logo=pandas&logoColor=white" alt="Pandas logo" title="Pandas" height="30" />
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E?logo=scikit-learn&logoColor=white" alt="scikit-learn logo" title="Sklearn" height="30" />
+</p>
+
+<h1 align="center"> Some Fun Stats 📊 </h1>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=sambitsargam&show_icons=true&bg_color=0d1117&text_color=FFF&border_color=444&title_color=00BFFF" height="165">
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sambitsargam&layout=compact&bg_color=0d1117&text_color=FFF&border_color=444&title_color=00BFFF"  height="165">
+  </a>
+</p>
+
+<h1 align="center"> Contributions 🔥</h1>
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=sambitsargam&theme=react&background=0d1117&border=666">
+  </a>
+  <br>
+  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+    <img src="https://activity-graph.herokuapp.com/graph?username=sambitsargam&theme=react-dark&hide_border=true&area=true">
+  </a>
+</p>
 
 
+<h1 align="center"> Find me around the web :globe_with_meridians:</h1>
+<p align="center">
+  <a href="https://www.linkedin.com/in/sambitsargam/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:sambitsargam2003@gmail.com?subject=Hello%20Sambit,%20From%20Github" target="_blank"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <ahref="https://twitter.com/sambitsargam" target="_blank"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/myself_sambit/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://medium.com/@sambitsargam" target="_blank"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://sambitsargam.study" target="_blank"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
