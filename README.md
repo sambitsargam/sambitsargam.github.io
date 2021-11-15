@@ -1,6 +1,6 @@
-<p align="center">
-"👋 Hi there! I'm Sambit Sargam Ekalabya" title="👋 Hi there! I'm Sambit"
-</p>
+<h1 align="center">
+👋 Hi there! I'm Sambit Sargam Ekalabya
+</h1>
 
 ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=sambitsargam.sambitsargam&color=00df00)
 
