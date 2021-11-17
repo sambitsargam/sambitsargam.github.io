@@ -46,7 +46,7 @@
 <p align="center">
   <img width="370px" height:"200" src="http://github-readme-streak-stats.herokuapp.com?user=sambitsargam&hide_border=true&background=0D111700&border=943BDD00&fire=CB0044&sideNums=FC6401&currStreakLabel=ff96e6e&currStreakNum=969696&sideLabels=FC6401&dates=969696&stroke=7F1DA2" />
 
-  <img src="https://activity-graph.herokuapp.com/graph?username=sambitsargam&theme=radical&bg_color=00000000&point=00000000&line=FC6401&hide_border=true&custom_title=Keep+Exploring,+Learning+and+Contributing+away...&color=969696&area=true&area_color=FC6401" height:"200" >
+  <img src="https://activity-graph.herokuapp.com/graph?username=sambitsargam&theme=radical&bg_color=00000000&point=00000000&line=FC6401&hide_border=true&custom_title=Keep+Exploring,+Learning+and+Contributing+away...&color=969696&area=true&area_color=FC6401" height:"200" />
 
 <h1 align="center"> Find me around the web :globe_with_meridians:</h1>
 <p align="center">
