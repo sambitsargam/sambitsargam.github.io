@@ -14,21 +14,19 @@
 
 - CHECK MY PORTFOLIO AT https://sambitsargam.study/
 
-<h1 align="center"> Tools and Technologies⚡</h1>
-<p align="center">
-  <img src="https://img.shields.io/badge/html5-%23E34F26?logo=html5&logoColor=white" alt="HTML5 logo" title="HTML5" height="30" />
-  <img src="https://img.shields.io/badge/css3-%231572B6?logo=css3&logoColor=white" alt="CSS3 logo" title="CSS3" height="30" />
-  <img src="https://img.shields.io/badge/c-%2300599C?logo=c&logoColor=white" alt="C logo" title="C" height="30" />
-  <img src="https://img.shields.io/badge/java-%23ED8B00?logo=java&logoColor=white" alt="Java logo" title="Java" height="30" />
-  <img src="https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54" alt="Python logo" title="Python" height="30" />
-  <img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="30" />
-  <img src="https://img.shields.io/badge/github-%23121011?logo=github&logoColor=white" alt="GitHub logo" title="GitHub" height="30" />
-  <img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" alt="Windows logo" title="Windows" height="30" />
-  <img src="https://img.shields.io/badge/Canva-%2300C4CC?logo=Canva&logoColor=white" alt="Canva logo" title="Canva" height="30" />
-  <img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="30" />`
-  <img src="https://img.shields.io/badge/pandas-%23150458?logo=pandas&logoColor=white" alt="Pandas logo" title="Pandas" height="30" />
-  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E?logo=scikit-learn&logoColor=white" alt="scikit-learn logo" title="Sklearn" height="30" />
-</p>
+<h1 align="center"> 🍁 My Skill stack :</h1>
+
+
+|               |           |
+|       ---     |    ---    |
+| `Web-Dev`     | ![HTML5](https://img.shields.io/badge/-HTML5-CC2400?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-E24800?style=for-the-badge&logo=css3) ![JavaScript](https://img.shields.io/badge/-JavaScript-FE7601?style=for-the-badge&logo=javascript) ![Bootstrap](https://img.shields.io/badge/bootstrap-FE9A00?style=for-the-badge&logo=bootstrap&logoColor=white)|
+| `Languages`   | ![C++](https://img.shields.io/badge/-C++-034D9A?style=for-the-badge&logo=c%2B%2B) ![Python](https://img.shields.io/badge/-Python-1F65AC?style=for-the-badge&logo=Python&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-307BBD?style=for-the-badge&logo=mysql&logoColor=white)|
+| `Tools`       | ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-5D1A60?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![Git](https://img.shields.io/badge/Git-682181?style=for-the-badge&logo=git&logoColor=white) ![Heroku](https://img.shields.io/badge/Heroku-AA2690?style=for-the-badge&logo=heroku&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-AA42F1.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)|
+
+
+<img align="right" src="https://komarev.com/ghpvc/?username=your-github-JOS-RE&style=flat-square&color=232323">
+<hr>
+
 
 <h1 align="center"> Some Fun Stats 📊 </h1>
 <p align="center">
