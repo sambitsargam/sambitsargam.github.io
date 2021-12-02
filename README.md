@@ -37,7 +37,7 @@
 
 </div>
 <div align="center">
-<img width="370px" src="https://github-readme-stats.vercel.app/api?username=sambitsargam&show_icons=true&theme=radical&count_private=true&hide_border=true&title_color=FC6401&icon_color=FC6401&bg_color=0D111700&text_color=969696&custom_title=Joshith's+Github Stats"height:"200"  alt="Sambit's Github stats" />
+<img width="370px" src="https://github-readme-stats.vercel.app/api?username=sambitsargam&show_icons=true&theme=radical&count_private=true&hide_border=true&title_color=FC6401&icon_color=FC6401&bg_color=0D111700&text_color=969696&custom_title=Sambit Sargam's+Github Stats"height:"200"  alt="Sambit's Github stats" />
  <div align="center"> 
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sambitsargam&layout=compact&bg_color=0d1117&text_color=FFF&border_color=444&title_color=00BFFF"  height="200"/>
 
