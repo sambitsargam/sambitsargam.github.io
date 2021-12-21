@@ -13,7 +13,7 @@
 - 💻 I'm currently learning Python and Web development with Cloud Technology also.
 - 🔭 I’m currently working on a  research project
 - 🌎 i'm working to develope a fluid stimulated website https://sambit.study
-- 🤔 I’m looking for help with **Data Science**
+- 🤔 I’m looking for help with **Blockchain Development**
 - 😄 Pronouns: He/His
 
 - CHECK MY PORTFOLIO AT https://sambitsargam.study/
