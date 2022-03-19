@@ -16,7 +16,7 @@
 - 🤔 I’m looking for help with **Blockchain Development**
 - 😄 Pronouns: He/His
 
-- CHECK MY PORTFOLIO AT https://sambitsargam.study/
+- CHECK MY PORTFOLIO AT https://sambitsargam.in/
 
 <h1 align="center"> 🍁 My Skill stack :</h1>
 
